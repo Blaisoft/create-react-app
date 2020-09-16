@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/create-react-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/create-react-app/static/js/main.11d159eb.chunk.js",
-    "main.js.map": "/create-react-app/static/js/main.11d159eb.chunk.js.map",
-    "runtime-main.js": "/create-react-app/static/js/runtime-main.739b8099.js",
-    "runtime-main.js.map": "/create-react-app/static/js/runtime-main.739b8099.js.map",
-    "static/js/2.f939d30a.chunk.js": "/create-react-app/static/js/2.f939d30a.chunk.js",
-    "static/js/2.f939d30a.chunk.js.map": "/create-react-app/static/js/2.f939d30a.chunk.js.map",
-    "index.html": "/create-react-app/index.html",
-    "precache-manifest.36d71d3dfaedc9860bbc0a3648000973.js": "/create-react-app/precache-manifest.36d71d3dfaedc9860bbc0a3648000973.js",
-    "service-worker.js": "/create-react-app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/create-react-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f939d30a.chunk.js.LICENSE.txt": "/create-react-app/static/js/2.f939d30a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/create-react-app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/appreact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/appreact/static/js/main.0083e1f0.chunk.js",
+    "main.js.map": "/appreact/static/js/main.0083e1f0.chunk.js.map",
+    "runtime-main.js": "/appreact/static/js/runtime-main.f263bfbb.js",
+    "runtime-main.js.map": "/appreact/static/js/runtime-main.f263bfbb.js.map",
+    "static/js/2.f939d30a.chunk.js": "/appreact/static/js/2.f939d30a.chunk.js",
+    "static/js/2.f939d30a.chunk.js.map": "/appreact/static/js/2.f939d30a.chunk.js.map",
+    "index.html": "/appreact/index.html",
+    "precache-manifest.4ab3a5e1bdce494ad776d19837831dec.js": "/appreact/precache-manifest.4ab3a5e1bdce494ad776d19837831dec.js",
+    "service-worker.js": "/appreact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/appreact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f939d30a.chunk.js.LICENSE.txt": "/appreact/static/js/2.f939d30a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/appreact/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.739b8099.js",
+    "static/js/runtime-main.f263bfbb.js",
     "static/js/2.f939d30a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.11d159eb.chunk.js"
+    "static/js/main.0083e1f0.chunk.js"
   ]
 }
